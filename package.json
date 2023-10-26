@@ -1,0 +1,22 @@
+{
+  "name": "google-image-scraper",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ADONIS JR. S Sanchez (ISOY DEV)",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.5.1",
+    "cheerio": "^1.0.0-rc.12",
+    "google-scholar": "^1.5.1",
+    "node-fetch": "^3.2.6",
+    "puppeteer": "^21.4.1",
+    "scholarly": "^1.1.1",
+    "unirest": "^0.6.0"
+  }
+}
